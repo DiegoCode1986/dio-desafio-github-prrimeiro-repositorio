@@ -1,0 +1,28 @@
+link para download do git: https://git-scm.com/downloads
+Git é um sistema de controle de versão muito utilizado pelos desenvolvedores para gerenciar o histórico de alterações do código-fonte.
+ Aqui estão alguns dos principais comandos do Git:
+
+git init: inicializa um novo repositório Git.
+
+
+
+git clone: clona um repositório Git existente para sua máquina local.
+
+git add: adiciona arquivos modificados ou novos ao índice do Git (também conhecido como staging).
+
+git commit: salva as alterações adicionadas ao índice com uma mensagem descritiva.
+
+git push: envia as alterações para um repositório remoto.
+
+git pull: recupera as alterações do repositório remoto e as mescla com a sua versão local.
+
+git branch: lista todas as branches existentes ou cria uma nova branch.
+
+git checkout: alterna entre branches ou entre commits anteriores.
+
+git merge: combina duas branches diferentes ou um commit específico em uma branch existente.
+
+git status: mostra o estado atual do repositório Git, incluindo arquivos modificados, adicionados ou excluídos.
+
+Esses são apenas alguns dos principais comandos do Git. Há muitos outros comandos e opções disponíveis, e 
+é importante ler a documentação do Git para entender como usá-los efetivamente.
